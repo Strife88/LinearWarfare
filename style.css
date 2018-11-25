@@ -1,0 +1,19 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(20, 1fr);;
+}
+p {
+        font-family: sans-serif;
+
+}
+
+#reset {
+    display: flex;
+    
+    display: inline-block;
+    font-size:30px;
+    font-family: sans-serif;
+    background: orange;
+    padding: 8px 16px;
+    border-radius: 8px;
+}
